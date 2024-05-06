@@ -1,0 +1,26 @@
+Show()
+{
+Print ();
+}
+Init()
+{
+Born()
+}
+alert1()
+{
+print ("massege 1")
+print ("adding message")
+
+
+}
+alert2()
+{
+
+print ("massege  waw")
+print ("massege 2")
+}
+alert3()
+{
+print ("massege 3_")
+
+}
